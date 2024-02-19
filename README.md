@@ -1,5 +1,6 @@
 # Wav2TextGrid
 **Alpha 0.1 version** of the Wav2TextGrid phonetic forced aligner.
+The aligner and codebase can be found here: https://github.com/pkadambi/Wav2TextGrid/tree/main
 
 ## Installation
 
