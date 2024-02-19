@@ -11,11 +11,14 @@ The aligner and codebase can be found here: https://github.com/pkadambi/Wav2Text
 For a demo of the aligner refer to the code below
 
 ### Usage 
+
 **Usage Context**
+
 The aligner was trained on manual alignments from a corpus of children 3-7 years old, speaking sentences from the Test of Childhood Stuttering (TOCS) single word and short sentence utterances. The duration of each utterance was ~2-5s in length.
 The aligner likely will work best on similar data (short child speech utterances TOCS).
 Wav2TextGrid has not been tested for adult speech, but would likely perform best on short segments of adult speech.
 The system has not been tested on longer utterances.
+
 ------
 
 
